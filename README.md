@@ -3,6 +3,7 @@
 A modern and responsive web design agency website built with HTML5 and CSS3. Features a multi-page structure with services, about, and contact sections.
 
 🔗 [Live Demo](https://hasankoparan.github.io/UdemigSoftware_Project/)
+https://hasankoparan.github.io/UdemigSoftware_Project/
 
 ---
 
